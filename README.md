@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @uoiuo
+- 👀 I’m interested in learning to build with programming.
+- 🌱 I’m currently learning python in university, but I want to learn so much more. 
+- 💞️ I’m looking to collaborate on silly projects right now. 
+- 📫 How to reach me at my email, uoiuonion@gmail.com
